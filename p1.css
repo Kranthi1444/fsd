@@ -1,0 +1,27 @@
+.parent{
+    background-color: blueviolet;
+}
+.static{
+    background-color: burlywood;
+}
+.relative{
+    background-color: wheat;
+    position: relative;
+    left: 20px;
+}
+.absolute{
+    background-color: slategrey;
+    position: absolute;
+    top: 120px;
+}
+.fixed{
+    background-color: peru;
+    position: fixed;
+    bottom: 20px;
+}
+.sticky{
+    background-color: rosybrown;
+    position: sticky;
+    
+}
+
